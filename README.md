@@ -27,7 +27,7 @@ android:host='yourdomain.com' />
 ```
 ❓You can enter your desired address instead of `yourdomain.com`.
 If this address is not registered for another application, it will not be a problem.
-For reference, the example app's AndroidManifest.xml file can be found [here]('https://github.').
+For reference, the example app's AndroidManifest.xml file can be found [here](https://github.com/3raaj/fast_zarinpal/blob/47cee3d637fb3e996d2eedcdf8ec79e5da898937/example/android/app/src/main/AndroidManifest.xml#L23)
 ## Example
 
 ```dart
