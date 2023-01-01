@@ -1,6 +1,6 @@
 name: fast_zarinpal
-description: Quick implementation of Zarin Pal payments with Fast_ZarinPal
-version: 0.0.1
+description: Quick implementation of Zarinpal payments with fast_zarinpal
+version: 0.1.2
 homepage: https://github.com/3raaj/fast_zarinpal
 environment:
   sdk: '>=2.18.4 <3.0.0'
