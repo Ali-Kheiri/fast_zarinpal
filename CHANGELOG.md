@@ -1,4 +1,4 @@
-## 0.0.1
+## 0.1.2
 
-* update README.md
+* update README.md +2 
 
